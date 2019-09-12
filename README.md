@@ -23,3 +23,12 @@ ps -aux | grep sh -meklēšana pec sh
 cd / -aiziet atpakaļ majā  
 cd . -palikt šajā direktorijā   
 cd .. -iziet no apakšmapes  
+
+3 nodarbibas komandas  
+echo -taisa faili ,ja tur kaut kas ir tas ir parrakstits  
+nano -atver redakcijas paneli  (ctrl+x -> Y -> Enter)  
+cp (fails1) (fails2) -kopē failus  
+mv () () parvieto failus  
+mv *.txt -parvieto visu tekstu *  
+rm -notira tekstu  
+rm -fr  -notira pilnus mapus  
