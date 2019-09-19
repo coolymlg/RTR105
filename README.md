@@ -34,8 +34,11 @@ rm -notira tekstu
 rm -fr  -notira pilnus mapus  
 
 4 nodarbibas komandas 
+<<<<<<< HEAD
 git clone https://github.com/coolymlg/RTR105 -ielade manu github 
 ./git-upload -uzlade visu jauno uz github
 gcc elementary.c -compile scripta saturu
 
 
+=======
+>>>>>>> c00c6ce4280bd9773f08b51ba91f63460ac1df5c

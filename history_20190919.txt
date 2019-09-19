@@ -1,0 +1,93 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  git clone https://github.com/coolymlg/RTR105
+    6  ls
+    7  cd RTR105/
+    8  -l
+    9  l
+   10  ls -l
+   11  ls -la
+   12  history
+   13  pwd
+   14  ls -l
+   15  cat README.md 
+   16  nano git-upload
+   17  ls -l
+   18  cat git-upload 
+   19  cat README.md 
+   20  cmod 700 git-upload 
+   21  chmod 700 git-upload 
+   22  ls -l
+   23  ./git-upload 
+   24  cat git-upload 
+   25  ./git-upload 20190919_15_09
+   26  nano git-upload
+   27  ./git-upload 20190919_15_09
+   28  cat git-upload 
+   29  nano git-upload
+   30  ./git-upload 20190919_15_09
+   31  ./git-upload 20190919_15_0
+   32  ./git-upload 20190919_15_00
+   33  nano git-upload
+   34  ./git-upload 20190919_15_00
+   35  cd
+   36  rm -rf RTR105/
+   37  git clone https://github.com/coolymlg/RTR105
+   38  ls
+   39  cd RTR105/
+   40  ls -l
+   41* 
+   42  cd RTR105/
+   43  nano elementary.c
+   44  cat elementary.c 
+   45  mkdir darbs
+   46  mv elementary.c  darbs/
+   47  ls
+   48  cd darbs/
+   49  ls
+   50  ls -l
+   51  gcc elementary.c 
+   52  nano elementary.c
+   53  gcc elementary.c 
+   54  ls -l
+   55  ./a.out 
+   56  gcc elementary.c -o prg1
+   57  ls -l
+   58  ./prg1 
+   59  ls -l
+   60  nano elementary.c
+   61  gcc elementary.c -o prg2
+   62  cat prg2 
+   63  l
+   64  ls l
+   65  ls -l
+   66  nano elementary.c
+   67  gcc elementary.c -o prg3
+   68  ls -l
+   69  cp elementary.c  hello.c
+   70  ls -l
+   71  nano hello.c 
+   72  gcc hello.c  -o hello
+   73  nano hello.c nano hello.c 
+   74  ls -l
+   75  gcc hello.c  -o hello
+   76  nano hello.c 
+   77  gcc hello.c  -o hello
+   78  ./hello 
+   79  history
+   80  nano hello.c 
+   81  gcc hello.c  -o hello
+   82  ls -l
+   83  nano hello.c 
+   84  gcc hello.c  -o hello
+   85  nano hello.c 
+   86  gcc hello.c  -o hello
+   87  nano hello.c 
+   88  gcc hello.c  -o hello
+   89  nano hello.c 
+   90  gcc hello.c  -o hello
+   91  nano hello.c 
+   92  gcc hello.c  -o hello
+   93  history > history_20190919.txt
