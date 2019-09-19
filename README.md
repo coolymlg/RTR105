@@ -32,3 +32,5 @@ mv () () parvieto failus
 mv *.txt -parvieto visu tekstu *  
 rm -notira tekstu  
 rm -fr  -notira pilnus mapus  
+
+4 nodarbibas komandas 
