@@ -1,0 +1,142 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  ls -a
+    5  git clone https://github.com/coolymlg/RTR105
+    6  dl
+    7  ls
+    8  cd 
+    9  cd RTR105/
+   10  ls
+   11  ls -l
+   12  ls
+   13  cat README.md 
+   14  echo README.md 
+   15  cat README.md 
+   16  git clone https://github.com/coolymlg/RTR105
+   17  cat README.md 
+   18  nano README.md 
+   19  cd darbs/
+   20  ls
+   21  cat hello
+   22  cat hello.c
+   23  ls -a
+   24  ls
+   25  rm a.out 
+   26  rm hello
+   27  rm prg1
+   28  rm prg2
+   29  rm prg3
+   30  ls
+   31  cat elementary.c 
+   32  cp hello.c 02.c
+   33  nano 02.c 
+   34  ./ hello.c
+   35  ./hello.c
+   36  gcc hello.c 
+   37  nano 02.c 
+   38  nano hello.c 
+   39  gcc hello.c 
+   40  ls
+   41  ./ a.out 
+   42  ./a.out 
+   43  nano 02.c 
+   44  gcc 02.c
+   45  nano 02.c 
+   46  gcc 02.c
+   47  ls
+   48  ./a.out 
+   49  cp hello.c 03.c
+   50  nano 03.c 
+   51  gcc 03.c
+   52  ./a.out 
+   53  nano 04.c
+   54  gcc 04.c
+   55  ./a.out 
+   56  gcc 04.c
+   57  nano 03.c 
+   58  gcc 03.c
+   59  ./a.out 
+   60  nano 03.c 
+   61  gcc 03.c
+   62  ./a.out 
+   63  nano 03.c 
+   64  gcc 03.c
+   65  nano 03.c 
+   66  ./a.out 
+   67  nano 03.c 
+   68  gcc 03.c
+   69  ./a.out 
+   70  gcc 03.c
+   71  nano 03.c 
+   72  gcc 03.c
+   73  ./a.out 
+   74  nano 04.c
+   75  gcc 04.c
+   76  nano 04.c
+   77  gcc 04.c
+   78  ./a.out 
+   79  nano 04.c
+   80  ./a.out 
+   81  nano 04.c
+   82  gcc 04.c
+   83  nano 04.c
+   84  gcc 04.c
+   85  ./a.out 
+   86  nano 04.c
+   87  gcc 04.c
+   88  ./a.out 
+   89  nano 04.c
+   90  gcc 04.c
+   91  ./a.out 
+   92  nano 04.c
+   93  ./a.out 
+   94  ls
+   95  nano 01.c
+   96  gcc 01.c
+   97  ./a.out 
+   98  nano 01.c
+   99  gcc 01.c
+  100  ./a.out 
+  101  nano 01.c
+  102  gcc 01.c
+  103  ./a.out 
+  104  mkdir P05
+  105  ls
+  106  mv 01.c P05/
+  107  mkdir P04
+  108  mv 02.c P04/
+  109  mv 03.c P04/
+  110  mv 04.c P04/
+  111  ls
+  112  mv hello.c P04/
+  113  cd P05/
+  114  ls
+  115  cd P04/
+  116  cd
+  117  cd RTR105/
+  118  cd darbs/
+  119  cd P04/
+  120  ls
+  121  nano 04.c 
+  122  gcc 04.c 
+  123  nano 04.c 
+  124  gcc 04.c 
+  125  ./a.out 
+  126  nano 04.c 
+  127  gcc 04.c 
+  128  ./a.out 
+  129  gcc 04.c 
+  130  ls
+  131  rm a.out 
+  132  cd ..
+  133  cd P05/
+  134  ls
+  135  rm a.out 
+  136  cd ..
+  137  ls
+  138  rm a.out 
+  139  ls
+  140  history
+  141  cd ..
+  142  history > history26-09.txt

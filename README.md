@@ -32,8 +32,22 @@ mv () () parvieto failus
 mv *.txt -parvieto visu tekstu *  
 rm -notira tekstu  
 rm -fr  -notira pilnus mapus  
-
+ 
 4 nodarbibas komandas 
+ 
+ 
+5 nodarbibas komandas 
+\n -pariet uz jaunu rindu 
+\r -kursors uz sakumu  
+\t -tabulacija 
+\' -attelot ' 
+\" -attelot " 
+\? -attelot ? 
+\\ -attelot \
+gcc (kods) -kompilet
+./a (kods) -pec kompilesanas paskatities kodu
+
+ 
 <<<<<<< HEAD
 git clone https://github.com/coolymlg/RTR105 -ielade manu github 
 ./git-upload -uzlade visu jauno uz github
