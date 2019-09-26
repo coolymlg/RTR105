@@ -43,9 +43,9 @@ rm -fr  -notira pilnus mapus
 \' -attelot ' 
 \" -attelot " 
 \? -attelot ? 
-\\ -attelot \
-gcc (kods) -kompilet
-./a (kods) -pec kompilesanas paskatities kodu
+\\ -attelot \ 
+gcc (kods) -kompilet 
+./a (kods) -pec kompilesanas paskatities kodu 
 
  
 <<<<<<< HEAD
