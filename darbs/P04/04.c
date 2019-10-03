@@ -7,5 +7,4 @@ int main()
 	int R=123 ;
 	int L=2*pi()*R ;
 	printf("Rinka ar raadiusu %d garums id %d m ", R, L);
-	
-} 
+}
