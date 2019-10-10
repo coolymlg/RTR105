@@ -47,12 +47,14 @@ rm -fr  -notira pilnus mapus
 gcc (kods) -kompilet 
 ./a (kods) -pec kompilesanas paskatities kodu 
 
- 
-<<<<<<< HEAD
+6. nodarbibas komandas
+
+
+
 git clone https://github.com/coolymlg/RTR105 -ielade manu github 
 ./git-upload -uzlade visu jauno uz github
 gcc elementary.c -compile scripta saturu
-
+./a out
 
 =======
 >>>>>>> c00c6ce4280bd9773f08b51ba91f63460ac1df5c
