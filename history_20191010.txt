@@ -1,0 +1,76 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cp if_test_1.c if_test_2.c
+    4  ls
+    5  ./a.out 
+    6  ./huj.exe
+    7  nano if_test_4.c 
+    8  cp if_test_4.c if_test_5.c
+    9  nano if_test_5.c 
+   10  gcc if_test_5.c 
+   11  nano if_test_5.c 
+   12  gcc if_test_5.c 
+   13  ./a.out 
+   14  nano if_test_5.c 
+   15  gcc if_test_5.c 
+   16  ./a.out 
+   17  nano if_test_5.c 
+   18  gcc if_test_5.c 
+   19  ./a.out 
+   20  gcc if_test_5.c 
+   21  nano if_test_5.c 
+   22  gcc if_test_5.c 
+   23  ./a.out 
+   24  ls -l
+   25  cp if_test_2.c while_test_1.c
+   26  nano while_test_1.c 
+   27  gcc while_test_1.c 
+   28  ./a.out 
+   29  cp while_test_1.c while_test_2.c 
+   30  nano while_test_2.c 
+   31* 
+   32  nano while_test_2.c 
+   33  cp while_test_1.c while_test_2.c 
+   34  ./a.out 
+   35  nano while_test_2.c 
+   36  nano while_test_1.c 
+   37  nano while_test_2.c 
+   38  gcc while_test_1.c 
+   39  gcc while_test_2.c 
+   40  ./a.out 
+   41  5
+   42  cp while_test_1.c for_test_1.c
+   43  nano for_test_1.c 
+   44  gcc for_test_1.c 
+   45  nano for_test_1.c 
+   46  gcc for_test_1.c 
+   47  ./a.out 
+   48  cp for_test_1.c for_test_2.c 
+   49  nano for_test_1.c 
+   50  gcc for_test_1.c 
+   51  ./a.out 
+   52  21
+   53  nano for_test_1.c 
+   54  gcc for_test_1.c 
+   55  ./a.out 
+   56  nano for_test_1.c 
+   57  gcc for_test_1.c 
+   58  ./a.out 
+   59  2
+   60  nano for_test_1.c 
+   61  gcc for_test_1.c 
+   62  ./a.out 
+   63  nano for_test_1.c 
+   64  gcc for_test_1.c 
+   65  ./a.out 
+   66  nano for_test_1.c 
+   67  cd
+   68  cd RTR105/
+   69  cd darbs/
+   70  ls
+   71  rm a.out 
+   72  cd ..
+   73  ls
+   74  ./git-upload 20191010_15_55
+   75  ls
+   76  history > history_20191010.txt
