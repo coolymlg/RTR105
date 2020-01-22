@@ -40,4 +40,4 @@ Ievadi precizitāti
 Beigas mees redzam, ka funkcijas grafiki atskiraas ar decimaliem skaitliem.
 
 ### Grafiks
-![Funkcijas grafiks] (https://github.com/coolymlg/RTR105/blob/master/darbs/3ld_derivative/derivative_graph.png)
+![Funkcijas grafiks](https://github.com/coolymlg/RTR105/blob/master/darbs/3ld_derivative/derivative_graph.png)
