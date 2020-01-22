@@ -77,5 +77,5 @@ R= —---------
 Pasa gala mes redzam, ka muusu funkcijas vērtība izmantojot Teilora rindas sakrīt ar funkcijas vērtību.
 
 ### Grafiks
-![DIBIL_exp_graf](aga potom v githube udobnee)
+![Grafiks](https://github.com/coolymlg/RTR105/blob/master/darbs/1ld_series/DIBIL_x2_exp(x)_graf.png)
 
